@@ -1,0 +1,41 @@
+.m0{
+	margin: 0px;
+}
+.third_title{
+	margin: 0px auto;
+	text-align: center;
+	margin-top: 4%;
+/*	padding: 10px;*/
+/*	border-bottom: 1px solid;*/
+/*	border-bottom: 1px solid #EEEEEE;*/
+	height: 170px;
+/*	border-bottom-color: #666666;*/
+}
+.data1{
+	background-color: rgba(255,255,255,0.3);
+	text-align: right;
+	width: 290px;
+	height: 80px;
+	transition: 0.5s;
+	border-radius: 10px;
+	cursor: hand;
+	padding: 5px;
+}
+.data2{
+		background-color: rgba(255,255,255,0.3);
+	text-align: left;
+	width: 290px;
+	height: 80px;
+		transition: 0.5s;
+		border-radius: 10px;
+		padding: 5px;
+}
+.data1:hover{
+	background-color: rgba(255,255,255,0.9);
+	cursor: pointer;
+
+}
+.data2:hover{
+	background-color: rgba(255,255,255,0.9);
+	cursor: pointer;
+}
